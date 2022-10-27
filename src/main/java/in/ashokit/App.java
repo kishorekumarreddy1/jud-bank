@@ -14,9 +14,14 @@ public class App
 kishroe is good boy
 for 102
 
+<<<<<<< Updated upstream
 
 
 
 
 abhi is good boy 
 he is from hyd
+=======
+keshava is good boy
+he is for banglore
+>>>>>>> Stashed changes
